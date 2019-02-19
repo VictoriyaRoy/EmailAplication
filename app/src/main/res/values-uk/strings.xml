@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Email Application</string>
+    <string name="email_autor_placeholder">Анонім</string>
+    <string name="email_subject_placeholder">Без теми</string>
+    <string name="email_content_placeholder">Псте повідомлення</string>
+    <string name="random_text">Random text</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+
+    <string name="compose">Написати</string>
+    <string name="to">Кому:</string>
+    <string name="subject">Тема</string>
+    <string name="compose_email">Текст повідомлення</string>
+    <string name="checkbox">Додати діловий підпис</string>
+    <string name="reply">Відповісти</string>
+    <string name="forward">Переслати</string>
+
+</resources>

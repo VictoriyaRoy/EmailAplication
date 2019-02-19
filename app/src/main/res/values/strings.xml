@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Email Application</string>
+    <string name="email_autor_placeholder">Anonymous</string>
+    <string name="email_subject_placeholder">No Subject</string>
+    <string name="email_content_placeholder">Empty Message</string>
+    <string name="random_text">Random text</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+
+    <string name="compose">Compose</string>
+    <string name="to">To:</string>
+    <string name="subject">Subject</string>
+    <string name="compose_email">Compose email</string>
+    <string name="checkbox">Add business signature</string>
+    <string name="reply">Reply</string>
+    <string name="forward">Forward</string>
+
+</resources>
